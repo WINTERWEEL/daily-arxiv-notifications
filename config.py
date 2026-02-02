@@ -5,11 +5,11 @@ from __future__ import print_function
 from __future__ import unicode_literals
 
 # The repository to add this issue to
-REPO_OWNER = 'abbasturkoglu'
+REPO_OWNER = 'WINTERWEEL'
 REPO_NAME = 'arxiv-papers-daily'
 
 # Set new submission url of subject
 NEW_SUB_URL = 'https://arxiv.org/list/cs/new'
 
 # Keywords to search
-KEYWORD_LIST = [ "reinforcement learning", "diffusion policy" ]
+KEYWORD_LIST = [ "agent", "finance" ]
